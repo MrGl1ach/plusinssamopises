@@ -2,6 +2,7 @@
 Все плагины разработаны вручную <span style="color:#FF5555">MrGl1ach</span> ✨
 
 Плагины предусмотрены изначально под сервер <span style="color:#FFAA00">GliachWorld</span>:
+
 🌐 IP: <span style="color:#55FF55">GliachWorld.minerent.io</span>
 
 📌 Версия: <span style="color:#55AAFF">1.16.5 — 1.21.9X</span>
